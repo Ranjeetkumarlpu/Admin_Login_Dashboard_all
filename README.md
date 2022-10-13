@@ -1,6 +1,11 @@
 # Admin_Login_Dashboard_all
+Login: 
 
 ![login](https://user-images.githubusercontent.com/84727061/195584655-0063c33f-d225-4e46-bef1-2b94f4275bae.PNG)
+
+ Sign up:
+ 
+ ![signup](https://user-images.githubusercontent.com/84727061/195587676-2a7e8cb6-1162-468e-8a28-ff8568029925.PNG)
 
 ![user](https://user-images.githubusercontent.com/84727061/195585405-2f944306-25a5-4b69-9abb-8b0dca5e9e5f.PNG)
  
