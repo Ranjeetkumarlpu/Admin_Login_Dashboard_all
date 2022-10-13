@@ -23,5 +23,4 @@
 ![display](https://user-images.githubusercontent.com/84727061/195586201-f40a6b92-4aa1-4e3b-893e-30aea749bebf.PNG)
 
 <h2><b> Dashboard :</b></h2>
-
 ![dashpic](https://user-images.githubusercontent.com/84727061/195584699-af42bb67-7084-4337-9de5-1459a9195a91.PNG)
